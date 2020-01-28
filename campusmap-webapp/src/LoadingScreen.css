@@ -1,0 +1,10 @@
+/*
+ * Copyright ©2019 Joshua Ip
+ * License: MIT
+ */
+
+html, body, div, canvas {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
